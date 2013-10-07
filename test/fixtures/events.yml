@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  date: 2013-10-07
+  event_type: MyString
+  location: MyString
+  address: MyString
+  posted_by: MyString
+  description: MyText
+  person_sought: MyString
+  objective: MyText
+  latitude: 1.5
+  longitude: 1.5
+  user_id: 1
+
+two:
+  date: 2013-10-07
+  event_type: MyString
+  location: MyString
+  address: MyString
+  posted_by: MyString
+  description: MyText
+  person_sought: MyString
+  objective: MyText
+  latitude: 1.5
+  longitude: 1.5
+  user_id: 1
